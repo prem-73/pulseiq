@@ -1,0 +1,6 @@
+employee_id,employee_name,department,age,email
+101,Arun Kumar,IT,25,arun@example.com
+102,Priya S,HR,29,priya@example.com
+103,Kumar R,Finance,32,kumar@example.com
+104,Meena P,IT,27,meena@example.com
+105,Ravi M,Operations,41,ravi@example.com

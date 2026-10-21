@@ -1,0 +1,6 @@
+attendance_id,employee_id,attendance_date,status,hours_worked
+2001,101,2026-10-01,Present,8.0
+2002,102,2026-10-01,Present,8.0
+2003,103,2026-10-01,Leave,0.0
+2004,104,2026-10-01,Present,7.5
+2005,105,2026-10-01,Absent,0.0
